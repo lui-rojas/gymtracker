@@ -1,0 +1,24 @@
+# Build folders
+build/
+build-*/
+debug/
+release/
+
+# Qt Local User Settings (Do not share these)
+*.user
+*.user.*
+
+# Object files and temporary files
+*.o
+*.obj
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+
+# Android build files
+android-build/
+*.apk
+*.aab
+*.keystore
